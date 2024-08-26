@@ -97,7 +97,7 @@ echo $mahasiswa2->tampilkanInfo();
 
 ```
 
-hasil : ![hasil class and object](assets/class and object.png)
+hasil : ![hasil class and object](asets/class and object.png)
 
 ## ENCAPSULATION
 ```php
@@ -175,4 +175,4 @@ $mahasiswa1->setJurusan("D3 Teknik Mesin");
 //selanjutnya kita getter untuk mengambil dan menampilkan nilai pada atribut
 echo $mahasiswa1->tampilkanInfo();
 ```
-hasil : ![hasil class and object](assets/encapsulation.png)
+hasil : ![hasil class and object](asets/encapsulation.png)
