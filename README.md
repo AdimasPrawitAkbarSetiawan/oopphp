@@ -242,7 +242,6 @@ $dosen1 = new Dosen("Pak Abdau", "Pemrograman Web");
 echo $dosen1->tampilkanDataDosen();
 
 ```
-<<<<<<< HEAD
 hasil : ![hasil class and object](./assests/inheritance.png)
 
 ## POLYMORPHISM
