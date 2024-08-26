@@ -180,6 +180,7 @@ echo $mahasiswa1->tampilkanInfo();
 hasil : 
 
 ![hasil class and object](./assests/encapsulation.png)
+<<<<<<< HEAD
 
 ### INHERITANCE
 ```php
@@ -243,3 +244,5 @@ echo $dosen1->tampilkanDataDosen();
 
 ```
 hasil : ![hasil class and object](./assests/inheritance.png)`
+=======
+>>>>>>> 01e0f3ec087b7588b1b562d0bfdeb9f328f6552c
