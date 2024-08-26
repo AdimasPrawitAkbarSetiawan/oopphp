@@ -3,7 +3,7 @@ class Mahasiswa
 //pertama harus membuat class atau kelas, class ini ibarat template untuk membuat objek mahasiswa agar mahasiswa ini mempunyai atribut dan perilaku yang sama
 //karna yang diminta adalah kelas mahasiswa jadi kita membuat kelas dengan nama class mahasiswa
 {
-    //selanjutnya kita membuat atribut atau variabel di dalam kelas
+    //selanjutnya kita membuat atribut di dalam kelas
     //karna yang diminta di soal adalah atribut nama,nim,jurusan jadi kita membuatnya sesuai dengan jobsheet
     //public adalah atribut yg bersifat public, artinya dapat di akses dari luar   
     public $nama;

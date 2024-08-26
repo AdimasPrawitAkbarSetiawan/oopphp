@@ -28,6 +28,7 @@ class Dosen extends Pengguna
     private $mataKuliah;
 
     //konstruktor adalah fungsi khusus yang dijalankan secara otomatis saat objek baru dibuat dari kelas dosen.
+    //public adalah atribut yg bersifat public, artinya dapat di akses dari luar
     public function __construct($nama, $mataKuliah)
     {
         //parent::__construct($nama) digunakan untuk memanggil metode atau konstruktor dari kelas induk (pengguna) di dalam kelas anak (dosen).

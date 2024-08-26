@@ -10,6 +10,7 @@ abstract class Pengguna
 class Mahasiswa extends Pengguna
 {
     // Implementasi metode aksesFitur() untuk Mahasiswa
+    //public adalah atribut yg bersifat public, artinya dapat di akses dari luar
     public function aksesFitur()
     {
         return "Akses fitur untuk Mahasiswa: Melihat jadwal, mengumpulkan tugas, dan melihat nilai.";
@@ -20,6 +21,7 @@ class Mahasiswa extends Pengguna
 class Dosen extends Pengguna
 {
     // Implementasi metode aksesFitur() untuk Dosen
+    //public adalah atribut yg bersifat public, artinya dapat di akses dari luar
     public function aksesFitur()
     {
         return "Akses fitur untuk Dosen: Mengelola nilai mahasiswa dan mengajar.";
