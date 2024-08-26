@@ -335,6 +335,5 @@ $dosen = new Dosen();
 echo $mahasiswa->aksesFitur() . "<br>" . $dosen->aksesFitur();
 
 ```
-=======
 hasil : ![hasil class and object](./assests/inheritance.png)
 
