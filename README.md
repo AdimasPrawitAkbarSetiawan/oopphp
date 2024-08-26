@@ -99,7 +99,7 @@ echo $mahasiswa2->tampilkanInfo();
 
 hasil : 
 
-![hasil class and object](./assets/classandobject.png)
+![hasil class and object](./assests/classandobject.png)
 
 ## ENCAPSULATION
 ```php
@@ -179,4 +179,4 @@ echo $mahasiswa1->tampilkanInfo();
 ```
 hasil : 
 
-![hasil class and object](./assets/encapsulation.png)
+![hasil class and object](./assests/encapsulation.png)
