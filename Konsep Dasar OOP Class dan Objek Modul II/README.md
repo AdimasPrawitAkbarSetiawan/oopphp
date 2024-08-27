@@ -99,7 +99,7 @@ echo $mahasiswa2->tampilkanInfo();
 
 hasil : 
 
-![hasil class and object](./assests/classandobject.png)
+![hasil class and object](../assests/classandobject.png)
 
 ## ENCAPSULATION
 ```php
@@ -179,7 +179,7 @@ echo $mahasiswa1->tampilkanInfo();
 ```
 hasil : 
 
-![hasil class and object](./assests/encapsulation.png)
+![hasil class and object](../assests/encapsulation.png)
 
 ## INHERITANCE
 ```php
@@ -242,7 +242,7 @@ $dosen1 = new Dosen("Pak Abdau", "Pemrograman Web");
 echo $dosen1->tampilkanDataDosen();
 
 ```
-hasil : ![hasil class and object](./assests/inheritance.png)
+hasil : ![hasil class and object](../assests/inheritance.png)
 
 ## POLYMORPHISM
 ```php
@@ -293,7 +293,7 @@ $mahasiswa = new Mahasiswa();
 echo $pengguna->aksesFitur() . "<br>" . $dosen->aksesFitur() . "<br>" . $mahasiswa->aksesFitur();
 
 ```
-hasil : ![hasil class and object](./assests/polymorphism.png)
+hasil : ![hasil class and object](../assests/polymorphism.png)
 
 ## ABSTRACTION
 ```php
@@ -335,5 +335,5 @@ $dosen = new Dosen();
 echo $mahasiswa->aksesFitur() . "<br>" . $dosen->aksesFitur();
 
 ```
-hasil : ![hasil class and object](./assests/inheritance.png)
+hasil : ![hasil class and object](../assests/inheritance.png)
 
