@@ -22,7 +22,7 @@ public adalah atribut yg bersifat public, artinya dapat di akses dari luar.
 
 ## KONSTRUKTOR
 
-konstruktor adalah fungsi khusus .\
+konstruktor adalah fungsi khusus .Constructor biasanya digunakan untuk memberikan nilai awal kepada atribut-atribut kelas saat objek dibuat\
 karna atributnya ada 3 yaitu nama,nim,jurusan jadi kita juga membuat 3 konstruktor yang terdiri dari atribut $nama,$nim,$jurusan.
 
 ```php
