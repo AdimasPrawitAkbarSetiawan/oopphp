@@ -5,7 +5,7 @@ Object-Oriented Programming (OOP) adalah sebuah paradigma pemrograman yang beror
 
 ## CLASS
 
-class ini ibarat template untuk membuat objek mahasiswa agar mahasiswa ini mempunyai atribut dan perilaku yang sama.
+class ini ibarat template untuk membuat objek agar objek ini mempunyai atribut dan perilaku yang sama.
 
 ```php
 class Mahasiswa
