@@ -10,7 +10,7 @@
     {
         return $this->nama;
     }
-}
+}   
 class Buku extends Produk
 {
     private $penulis;
@@ -27,4 +27,4 @@ class Buku extends Produk
 }
 
 $buku1 = new Buku("Pemrograman PHP", "Andi Prasetyo");
-echo $buku1->getNama(); // Output: Pemrograman PHP 
+echo $buku1->getNama(); 

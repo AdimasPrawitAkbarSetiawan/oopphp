@@ -5,15 +5,14 @@ Object-Oriented Programming (OOP) adalah sebuah paradigma pemrograman yang beror
 
 ## CLASS
 
-Class dalam PHP adalah struktur data atau cetak biru dari suatu objek. Class merupakan konsep dasar dalam pemrograman berbasis objek (OOP) yang berfungsi untuk membuat objek, sehingga pemrograman menjadi lebih efisien dan terstruktur. 
-
+Class adalah konsep dasar dalam pemrograman berbasis objek (OOP) yang berfungsi sebagai cetak biru atau blueprint untuk menciptakan objek, membuat pemrograman menjadi lebih terstruktur dan efisien.
 
 ```php
 class Mahasiswa
 ```
 
 ## ATRIBUT
-atribut adalah property atau karakteristik dari sebuah objek. istilah lain atribut adalah deskripsi sesuatu yang digunakan untuk memanipulasi atau merujuk elemen/bidang/file.\
+atribut adalah property atau karakteristik dari sebuah objek. pengertian lainnya atribut adalah deskripsi sesuatu yang digunakan untuk memanipulasi atau merujuk elemen/bidang/file.\
 public adalah atribut yg bersifat public, artinya dapat di akses dari luar.
 ```php
   public $nama;
